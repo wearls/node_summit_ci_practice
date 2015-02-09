@@ -13,11 +13,12 @@
   
   "devDependencies": {
     "mocha": "^2.1.0"	
-  }
+  },
 
   "scripts": {
     "test": "mocha --reporter spec --recursive"	
-  }	
+  },
+
   "author": "William Earls",
   "license": "ISC",
   "bugs": {
