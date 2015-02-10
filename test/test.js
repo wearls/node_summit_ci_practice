@@ -1,2 +1,8 @@
-expect(4+5).equal(9);
+describe("JSON", function() {
+   describe(".parse()", function() {
+       it("should detect malformed JSON strings", function(){
+         
+       });
+   });
+});
 
